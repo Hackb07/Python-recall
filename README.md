@@ -29,6 +29,7 @@ The `Excercise/` directory contains practical applications of the concepts learn
 - **Exercise 6**: Calculator implementation.
 - **Exercise 7**: Weight Converter.
 - **Exercise 8**: Temperature Converter.
+- **Compound Interest Calculator**: Calculating compound interest over time (`Excercise/Excercise-compound-interest-calculator.py`).
 
 ## 🚀 How to Run
 
@@ -52,6 +53,7 @@ python variable.py
 ├── Excercise/
 │   ├── Exercise1.py
 │   ├── Exercise-2.py
+│   ├── Excercise-compound-interest-calculator.py
 │   └── ...
 ├── Format_Specifiers.py
 ├── if-statement.py
