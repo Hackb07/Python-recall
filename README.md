@@ -13,6 +13,8 @@ This repository contains scripts that demonstrate the following fundamental Pyth
 - **Logical Operators**: Using `and`, `or`, and `not` (`Logical-Operator.py`).
 - **Conditional Expressions**: Evaluating truth values (`Conditional-Experession.py`).
 - **If-Statements**: Implementing control flow logic (`if-statement.py`).
+- **While Loops**: Repeating code while a condition is true (`while-loop.py`).
+- **Format Specifiers**: Formatting output and alignment (`Format_Specifiers.py`).
 - **Math Functions**: Utilizing Python's built-in math library (`math functions.py`).
 
 ## 🛠 Exercises
@@ -51,11 +53,13 @@ python variable.py
 │   ├── Exercise1.py
 │   ├── Exercise-2.py
 │   └── ...
+├── Format_Specifiers.py
 ├── if-statement.py
 ├── input.py
 ├── Logical-Operator.py
 ├── main.py
 ├── math functions.py
 ├── typecasting.py
-└── variable.py
+├── variable.py
+└── while-loop.py
 ```
