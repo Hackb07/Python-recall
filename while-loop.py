@@ -1,13 +1,9 @@
-# while loop = execute some code WHILE some condition remains true
+# while loop = execute some code while some condition remains true
 
-name = input("Enter your name: ")
+num = int(input("Enter a number between 1 and 100: "))
 
-while name == "":
-    print("You did not enter your name")
-    name = input("Enter your name: ")
-else:
-    print(f"Hello {name}")
+while num < 1 or num>100:
+    print(f"{num} is not between 1 and 100")
+    num = int(input("Enter a number between 1 and 100: "))
 
-
-
-
+print(f"Your number is {num}.")
