@@ -19,9 +19,6 @@ while time <= 0 :
     if time <= 0:
         print("Time must be greater than zero")
 
-print(f"The Principle : {principle}\n"
-      f"The Rate of Interest :{rate}\n"
-      f"The Time Duration is : {time}")
 
 total = principle * pow((1+ rate /100),time)
 print(f"The Balance after {time} years/s : ${total:.2f}")
